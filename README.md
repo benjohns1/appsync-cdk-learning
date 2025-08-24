@@ -1,17 +1,5 @@
-# Welcome to your CDK TypeScript project
+# AppSync CDK
+AWS AppSync and CDK tutorials and learning project
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
-## Useful commands
-
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `npx cdk deploy`  deploy this stack to your default AWS account/region
-* `npx cdk diff`    compare deployed stack with current state
-* `npx cdk synth`   emits the synthesized CloudFormation template
-
-## Sources
+## References
 - https://blog.focusotter.com/the-fullstack-guide-to-creating-appsync-apis-with-the-aws-cdk

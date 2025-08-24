@@ -14,7 +14,7 @@ import {
   RemovalPolicy,
 } from 'aws-cdk-lib'
 import { AttributeType, BillingMode, Table } from 'aws-cdk-lib/aws-dynamodb';
-import * as path from 'path';
+import * as path from 'node:path';
 import {
   GraphqlApi,
   Definition,
